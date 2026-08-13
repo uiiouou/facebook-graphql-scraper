@@ -1,7 +1,5 @@
 # 敏感信息，绝不提交
 cookies.txt
-*.txt.cookies
-cookies.example.txt
 
 # 输出
 fb_output/

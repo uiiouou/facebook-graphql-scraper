@@ -1,0 +1,10 @@
+# Netscape HTTP Cookie File（示例，请替换为你的真实 cookie）
+# 获取方式：浏览器扩展 "Get cookies.txt LOCALLY" 导出，或 F12 → 应用 → Cookie 手动复制
+# 必需：c_user + xs（建议再加 datr / sb / fr）
+# 注意：xs 必须完整（含最后的 :-1:-1::xxx 后缀），否则会报 1357001 登录失败
+
+.facebook.com	TRUE	/	TRUE	0	c_user	你的用户ID
+.facebook.com	TRUE	/	TRUE	0	xs	36%3Axxx%3A2%3A时间戳%3A-1%3A-1%3A%3Axxx
+.facebook.com	TRUE	/	TRUE	0	datr	xxx
+.facebook.com	TRUE	/	TRUE	0	sb	xxx
+.facebook.com	TRUE	/	TRUE	0	fr	xxx
